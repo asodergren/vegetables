@@ -6,15 +6,15 @@ There is a significant demand to eat healthier but many peopledon't have the bac
 
 ## Introduction
 
-As people who would like to eat an adequate amount of vegetables, and as avid farmer's market enjoyers, we often found ourselves overwhelmed with the many different types of vegetables out there. Using an image dataset found on kaggle.com with 15 different types of vegetables, 
+As people who would like to eat an adequate amount of vegetables, and as avid farmer's market enjoyers, we often found ourselves overwhelmed with the many different types of vegetables out there. Using an image dataset found on kaggle.com with 15 different types of vegetables, this is a well-suited situation for a neural network. Since this issuch a large dataset, we know that training a neural network from scratch would take a significant amount of time, 
 
 ## Setup
 
-
+The dataset used was conveniently already split up into a train, test, and validation set, with a folder for each vegetable - a total of 15. Each folder in the training set contained x images and each folder in the test and validation sets contained y images. 
 
 ## Results
 
-[confusion matrix](vegetables/confusion_matrix)
+[confusion matrix](https://github.com/asodergren/vegetables/blob/main/confusion_matrix.png)
 
 ## Discussion
 
@@ -23,5 +23,3 @@ As people who would like to eat an adequate amount of vegetables, and as avid fa
 ## References
 
 Dataset citation: https://www.researchgate.net/publication/352846889_DCNN-Based_Vegetable_Image_Classification_Using_Transfer_Learning_A_Comparative_Study
-
-[Kaggle link](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset?resource=download)
