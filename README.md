@@ -27,15 +27,12 @@ We found much greater success in the tensorflow model than the PyTorch model, an
 This success can be seen in the following visuals:
 
 ![confusion matrix](confusion_matrix.png)
-
 Exhibit 1: Confusion matrix where higher numbers on the diagonal indicate correctly predicted images.
 
 ![loss](Loss_v1_InceptionV3.png)
-
 Exhibit 2
 
 ![accuracy](Accuracy_v1_InceptionV3.png)
-
 Exhibit 3
 
 ## Discussion
