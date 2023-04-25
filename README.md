@@ -10,7 +10,7 @@ As people who would like to eat an adequate amount of vegetables, and as avid fa
 
 ## Setup
 
-The dataset used was conveniently already split up into a train, test, and validation set, with a folder for each vegetable - a total of 15. Each folder in the training set contained x images and each folder in the test and validation sets contained y images. 
+a. The dataset used was conveniently already split up into a train, test, and validation set, with a folder for each vegetable - a total of 15. Each folder in the training set contained x images and each folder in the test and validation sets contained y images. 
 
 ## Results
 
