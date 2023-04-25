@@ -10,7 +10,9 @@ As people who would like to eat an adequate amount of vegetables, and as avid fa
 
 ## Setup
 
-a. The dataset used was conveniently already split up into a train, test, and validation set, with a folder for each vegetable - a total of 15. Each folder in the training set contained x images and each folder in the test and validation sets contained y images. 
+a) The dataset used was conveniently already split up into a train, test, and validation set, with a folder for each vegetable - a total of 15. Each folder in the training set contained 1000 images, each folder in the test and validation sets contained 200 images. The folders are filled of each vegetable either alone or multiple with different backgrounds.
+
+b) We ran and created our models on our local computers. Our best model consisted of using tranfer learning from the Inception version 3 model
 
 ## Results
 
