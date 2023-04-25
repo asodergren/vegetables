@@ -32,6 +32,7 @@ Exhibit 1: Confusion matrix where higher numbers on the diagonal indicate correc
 ![loss](Loss_v1_InceptionV3.png)
 Exhibit 2
 
+![accuracy](Accuracy_v1_InceptionV3.png)
 
 ## Discussion
 
