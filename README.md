@@ -26,7 +26,7 @@ c) As mentioned in part b, we used transfer learning to add 15 convonlutional la
 We found much greater success in the tensorflow model than the PyTorch model, and were able to create a very accurate model using transfer learning.
 This success can be seen in the following visuals:
 
-![confusion matrix]()
+![confusion matrix](confusion_matrix.png)
 Exhibit 1: Confusion matrix where higher numbers on the diagonal indicate correctly predicted images.
 
 ![loss]()
