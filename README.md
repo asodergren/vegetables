@@ -52,7 +52,7 @@ Based on the results shown above our, model performed impeccably. After the seco
 
 Looking at the confusion matrix, we were pleased to find that over half of the vegatables were predicted with 100% accuracy. The vegatables that were most mixed up ...
 
-Since we have found some accurate results we looked up other models that have either used the same or similar datasets. One medium article decribes how it used CNN models to reach a 95% accuracy score, which is worse
+Since we have found some accurate results we looked up other models that have either used the same or similar datasets. One medium article decribes how it used CNN models to reach a 95% accuracy score, which is worse than ours :). This article can be found in our references title: "Medium Article Link". This article goes through the model step by step using the Keras library and builds a model from scratch. It uses multiple 2D convonlutional layers and MaxPooling for results. They also choose to use ReLu activation for their model for each convolutional layer. The the models flattens the output of these convolutional layers and then adds multiple fully connected layers using ReLU activation and a dropout function between the layers and lastly using the softmax activation to obtain the final results. 
 
 ## Conclusion
 
