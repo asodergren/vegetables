@@ -27,12 +27,15 @@ We found much greater success in the tensorflow model than the PyTorch model, an
 This success can be seen in the following visuals:
 
 ![confusion matrix](confusion_matrix.png)
+
 Exhibit 1: Confusion matrix where higher numbers on the diagonal indicate correctly predicted images.
 
 ![loss](Loss_v1_InceptionV3.png)
+
 Exhibit 2: The loss of the tensor flow model as more epochs were added
 
 ![accuracy](Accuracy_v1_InceptionV3.png)
+
 Exhibit 3: The accuracy of the tensor flow model as more epochs were added
 
 Further, after seeing the success in the dataset images, we tested our model on other images of (mostly) vegetables, some of which are found in the training data and some of which are not.
@@ -40,6 +43,7 @@ In order, the pictures seen are of bell peppers (Capsicum), professor Zhang, a g
 These predictions were very accurate for the vegetables that were in the dataset, and it is interesting to see that it predicted zucchini as cucumber as that is what we would have predicted as well.
 
 ![other images](other-img.png)
+
 Exhibit 4: our images and what they were predicted as using the TensorFlow model
 
 ## Discussion
