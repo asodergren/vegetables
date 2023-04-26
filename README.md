@@ -57,6 +57,9 @@ Since we have found some accurate results we looked up other models that have ei
 
 ## Conclusion
 
+One of the main run ins we had with this project was developing a CNN model from scratch in PyTorch. While, we had a good understanding of the model we thought it would be more effective to add a bunch of different convonlutional layers for greater accuracy. This lead to later fustration with the run time of our model and once we got it going we found accurate results of over 98% in our transfer learning model and decided to move on. Reading the Medium article referenced above was really interesting because we found that they used a lot less nodes than we did but instead trained the model with about 100 epochs instead. Moving forward we will consider this misunderstandingand look for the most efficent balence between number of layers and number of epochs.  
+
+
 ## References and Sources
 
 Dataset citation: https://www.researchgate.net/publication/352846889_DCNN-Based_Vegetable_Image_Classification_Using_Transfer_Learning_A_Comparative_Study
