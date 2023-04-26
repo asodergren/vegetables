@@ -62,7 +62,9 @@ One of the main run ins we had with this project was developing a CNN model from
 
 ## References and Sources
 
-Dataset citation: https://www.researchgate.net/publication/352846889_DCNN-Based_Vegetable_Image_Classification_Using_Transfer_Learning_A_Comparative_Study
+Dataset citation: 
+
+[Official Reference link](https://www.researchgate.net/publication/352846889_DCNN-Based_Vegetable_Image_Classification_Using_Transfer_Learning_A_Comparative_Study)
 
 [Kaggle dataset link](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset?resource=download)
 
