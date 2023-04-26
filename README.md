@@ -72,5 +72,5 @@ Dataset citation:
 
 [Medium Article link](https://medium.com/mlearning-ai/vegetable-image-classification-using-cnn-6f1d1be75cfb)
 
-[Helpful learning(https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset?resource=download)
+[Helpful learning](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset?resource=download)
 
