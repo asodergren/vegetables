@@ -48,7 +48,11 @@ Exhibit 4: our images and what they were predicted as using the TensorFlow model
 
 ## Discussion
 
+Based on the results shown above our, model performed impeccably. After the second epoch our model performed with over 95% accuracy. We found that our model had the most accurate results around the 5th epoch (the graph is misindexed) and so that's the epoch we have kept. One great thing that we have found about this model is that is has avoided overfitting. We found that the validation accuracy was greater than the testing accuracy which tells us that we have reduced overfitting. We also have found that our model has performed with a low loss valuesafter the second epoch as well which is great news. 
 
+Looking at the confusion matrix, we were pleased to find that over half of the vegatables were predicted with 100% accuracy. The vegatables that were most mixed up ...
+
+Since we have found some accurate results we looked up other models that have either used the same or similar datasets. One medium article decribes how it used CNN models to reach a 95% accuracy score, which is worse
 
 ## Conclusion
 
@@ -57,4 +61,6 @@ Exhibit 4: our images and what they were predicted as using the TensorFlow model
 Dataset citation: https://www.researchgate.net/publication/352846889_DCNN-Based_Vegetable_Image_Classification_Using_Transfer_Learning_A_Comparative_Study
 
 [Kaggle link](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset?resource=download)
+
+[Medium link](https://medium.com/mlearning-ai/vegetable-image-classification-using-cnn-6f1d1be75cfb)
 
