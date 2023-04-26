@@ -64,5 +64,5 @@ Dataset citation: https://www.researchgate.net/publication/352846889_DCNN-Based_
 
 [TensorFlow documentation](https://www.tensorflow.org/tutorials/keras/save_and_load)
 
-[Medium link](https://medium.com/mlearning-ai/vegetable-image-classification-using-cnn-6f1d1be75cfb)
+[Medium Article link](https://medium.com/mlearning-ai/vegetable-image-classification-using-cnn-6f1d1be75cfb)
 
